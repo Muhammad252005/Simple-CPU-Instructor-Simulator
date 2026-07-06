@@ -59,7 +59,7 @@ Arithmetic instructions update the PSR to simulate processor status changes foll
 
 ### Source Code
 
-The complete C source code for this project is included in this repository.[Click here]()
+The complete C source code for this project is included in this repository.[Click here](code)
 
 ### Project Images
 
